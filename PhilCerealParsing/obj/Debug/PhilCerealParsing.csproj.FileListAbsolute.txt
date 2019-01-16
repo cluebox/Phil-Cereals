@@ -1,0 +1,8 @@
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\bin\Debug\PhilCerealParsing.exe.config
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\bin\Debug\PhilCerealParsing.exe
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\bin\Debug\PhilCerealParsing.pdb
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\obj\Debug\PhilCerealParsing.csprojResolveAssemblyReference.cache
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\obj\Debug\PhilCerealParsing.exe
+D:\Dotnet project\PhilCerealParsing\PhilCerealParsing\obj\Debug\PhilCerealParsing.pdb
